@@ -1,4 +1,4 @@
-#**📊 Analysing Revenue and Profitability for Strategic Growth** 
+# **📊 Analysing Revenue and Profitability for Strategic Growth** 
 
 ## **Introduction**
 In today’s fast-paced business landscape, data is more than just numbers— it’s the **heartbeat of every decision, the blueprint for growth, and the key to unlocking long-term success**. The project, "**Analysing Revenue and Profitability for Strategic Growth**," harnesses the power of advanced data analytics to decode complex business challenges, uncover untapped opportunities, and drive long-term growth.
